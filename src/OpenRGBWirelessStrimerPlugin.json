@@ -1,0 +1,8 @@
+{
+    "Id": "org.openrgb.plugin.lianli-wireless-strimer",
+    "Name": "Lian Li Wireless Strimer",
+    "VersionStr": "0.2.0",
+    "Commit": "",
+    "Url": "https://github.com/dejaeghered/openrgb-wireless-strimer-plugin",
+    "OpenRGBPluginAPIVersion": 5
+}
